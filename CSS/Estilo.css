@@ -1,4 +1,20 @@
-h1
+h1,h2
 {
-    color:#8F6800;
+    color: #8F6800;
+}
+h3
+{
+    color: #FFFFFF;
+    background-color: #D38D00;
+
+}
+body
+{
+    background-image: url("../Imagens/cabecalhos_back.png");
+    background-color: #FFF7D4;
+    background-repeat: repeat-y;
+}
+hr
+{
+    border-top: 3px dashed #D38D00;
 }
