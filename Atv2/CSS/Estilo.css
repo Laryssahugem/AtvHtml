@@ -1,0 +1,18 @@
+h1{
+    color:#754F31;
+    border-top-style: solid;
+    border-bottom: solid;
+    border: 100%
+}
+h2{
+    color: #FFFFFF;
+    background-color: #754F31;
+}
+img{
+    border: 5px solid #754F31;
+    padding: 10px;
+}
+body{
+    width: 95%;
+    margin: auto;
+}
